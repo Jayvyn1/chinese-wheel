@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="th">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Chinese Wheel 🌸</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <link rel="manifest" href="manifest.json">
+
+    <meta name="theme-color" content="#ff71b5">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Prompt:wght@300;400;500;700&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+
+<!-- Welcome -->
+
+<div id="welcome">
+
+    <div class="welcome-card">
+
+        <h1>🌸 Chinese Wheel 🌸</h1>
+
+        <p>By Jay, For Ninew Only 💖</p>
+
+        <button id="enterBtn">
+
+            Enter
+
+        </button>
+
+    </div>
+
+</div>
+
+<!-- Background -->
+
+<div class="background"></div>
+
+<div id="petals"></div>
+
+<!-- Main -->
+
+<div class="container">
+
+    <h1>🌸 Chinese Wheel</h1>
+
+    <p class="subtitle">
+
+        เรียนวันละคำ เก่งขึ้นทุกวัน
+
+    </p>
+
+    <div class="arrow">
+
+        ▼
+
+    </div>
+
+    <div id="wheelContainer">
+
+        <canvas id="wheelCanvas" width="500" height="500"></canvas>
+
+    </div>
+
+    <button id="spinBtn">
+
+        🎡 หมุนวงล้อ
+
+    </button>
+
+    <div class="card">
+
+        <h2 id="pinyin">
+
+            กดหมุนวงล้อ
+
+        </h2>
+
+        <h3 id="thai"></h3>
+
+        <h1 id="chinese" class="hidden"></h1>
+
+        <button id="showAnswer">
+
+            👀 ดูเฉลย
+
+        </button>
+
+    </div>
+
+    <div class="history">
+
+        <h3>
+
+            📜 ประวัติ
+
+        </h3>
+
+        <ul id="historyList">
+
+        </ul>
+
+    </div>
+
+    <footer>
+
+        By Jay, For Ninew Only 💖
+
+    </footer>
+
+</div>
+
+<script src="words.js"></script>
+
+<script src="script.js"></script>
+
+</body>
+
+</html>

@@ -1,0 +1,8 @@
+{
+  "name": "Chinese Wheel",
+  "short_name": "Chinese Wheel",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffd8ea",
+  "theme_color": "#ff71b5"
+}
