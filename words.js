@@ -125,6 +125,31 @@ const words = [
     { chinese:"房东", pinyin:"fángdōng", thai:"เจ้าของห้องเช่า" },
     { chinese:"放弃", pinyin:"fàngqì", thai:"ละทิ้ง" },
     { chinese:"方式", pinyin:"fāngshì", thai:"วิธีการ" },
-    { chinese:"放松", pinyin:"fàngsōng", thai:"ผ่อนคลาย" }
+    { chinese:"放松", pinyin:"fàngsōng", thai:"ผ่อนคลาย" },
 
+    
+    // ===== หน้า 12 =====
+
+    { chinese:"符号", pinyin:"fú hào", thai:"สัญลักษณ์" },
+    { chinese:"附件", pinyin:"fùjiàn", thai:"เอกสารแนบ" },
+    { chinese:"付款", pinyin:"fùkuǎn", thai:"ชำระเงิน" },
+    { chinese:"附属", pinyin:"fùshǔ", thai:"สังกัด" },
+    { chinese:"服务", pinyin:"fú wù", thai:"บริการ" },
+    { chinese:"复印", pinyin:"fù yìn", thai:"ถ่ายเอกสาร" },
+    { chinese:"负责", pinyin:"fù zé", thai:"รับผิดชอบ" },
+    { chinese:"负责人", pinyin:"fù zé rén", thai:"ผู้รับผิดชอบ" },
+    { chinese:"改变", pinyin:"gǎi biàn", thai:"เปลี่ยนแปลง" },
+    { chinese:"改革", pinyin:"gǎigé", thai:"ปฏิรูป" },
+    { chinese:"概括", pinyin:"gàikuò", thai:"สรุปรวบยอด" },
+    { chinese:"概念", pinyin:"gàiniàn", thai:"แนวคิด" },
+    { chinese:"改善", pinyin:"gǎishàn", thai:"ปรับปรุงให้ดีขึ้น" },
+    { chinese:"敢", pinyin:"gǎn", thai:"กล้า" },
+    { chinese:"干脆", pinyin:"gāncuì", thai:"เด็ดขาด" },
+    { chinese:"钢琴", pinyin:"gāng qín", thai:"เปียโน" },
+    { chinese:"感激", pinyin:"gǎnjī", thai:"ซาบซึ้งขอบคุณ" },
+    { chinese:"赶紧", pinyin:"gǎn jǐn", thai:"รีบ" },
+    { chinese:"感受", pinyin:"gǎnshòu", thai:"ความรู้สึก" },
+    { chinese:"感想", pinyin:"gǎnxiǎng", thai:"ความคิดเห็น" },
+    { chinese:"高度", pinyin:"gāodù", thai:"ระดับความสูง" },
+    { chinese:"高级", pinyin:"gāojí", thai:"ระดับสูง" },
 ];
